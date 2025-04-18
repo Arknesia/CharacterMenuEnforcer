@@ -1,0 +1,6 @@
+name: CharacterMenuEnforcer
+version: '${project.version}'
+main: com.arknesia.charactermenu.CharacterMenuEnforcer
+api-version: '1.21'
+depend: [PlaceholderAPI]
+authors: [Lexivale]
